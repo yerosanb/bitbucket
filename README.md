@@ -1,4 +1,4 @@
-# YaYa Wallet Webhook Implementation
+# YaYa Wallet Webhook 
 
 This project implements a webhook endpoint that receives and processes transaction notifications for YaYa Wallet and it's implemented with ASP.net core api. It includes database setup using PostgreSQL.
  
