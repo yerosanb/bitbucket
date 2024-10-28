@@ -8,5 +8,8 @@ This project implements a webhook endpoint that receives and processes transacti
  
 ### 1. Clone the Repository
 
-clone the project and then run on visual studio and test the project by sending data to endpoint
- 
+1. Clone the project repository from GitHub using `git clone https://github.com/yourusername/your-repository.git`.  
+2. Open the cloned project in Visual Studio and restore any required NuGet packages.  
+3. Run the application locally to start the server.  
+4. Obtain the endpoint URL (e.g., `http://localhost:5200/api/webhook`).  
+5. Test the webhook by sending a `POST` request with sample data using a tool like Postman. 
