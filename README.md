@@ -4,8 +4,7 @@ This project implements a webhook endpoint that receives and processes transacti
  
 ## Requirements
 - PostgreSQL
-- Docker (optional for containerization)
- 
+  
 ### 1. Clone the Repository
 
 1. Clone the project repository from GitHub using `git clone https://github.com/yourusername/your-repository.git`.  
