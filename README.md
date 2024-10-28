@@ -8,7 +8,5 @@ This project implements a webhook endpoint that receives and processes transacti
  
 ### 1. Clone the Repository
 
-clone the project
-run on visual studio 
-take the endpoint
-test by inserting data 
+clone the project and then run on visual studio and test the project by sending data to endpoint
+ 
