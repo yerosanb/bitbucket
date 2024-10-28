@@ -1,0 +1,6 @@
+@yaya_webhook_HostAddress = http://localhost:5280
+
+GET {{yaya_webhook_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

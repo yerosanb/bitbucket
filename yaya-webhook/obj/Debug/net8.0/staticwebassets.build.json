@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q05q8nfHHU0ux76U78DRUF+cM2N27iYp9pOIFi82tvE=",
+  "Source": "yaya-webhook",
+  "BasePath": "_content/yaya-webhook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
